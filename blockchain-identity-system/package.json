@@ -1,0 +1,11 @@
+{
+  "name": "blockchain-identity-system",
+  "version": "1.0.0",
+  "description": "Blockchain-based digital identity system",
+  "main": "blockchain-identity.js",
+  "type": "module",
+  "scripts": {"start": "node blockchain-identity.js"},
+  "keywords": ["blockchain","identity"],
+  "author": "GOTURI YASHWANTH REDDY",
+  "license": "MIT"
+}
